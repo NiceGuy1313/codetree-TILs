@@ -13,6 +13,9 @@ int main() {
 	else if (n >= 1000) {
 		cout << "mask" << endl;
 	}
+	else if (n >= 500) {
+		cout << "pen" << endl;
+	}
 	else {
 		cout << "no" << endl;
 	}
